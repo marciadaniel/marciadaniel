@@ -21,7 +21,7 @@
 
 ### I'm currently learning
 <div style="display: inline_block"><br/>
- <img alt="html5" src="https://img.shields.io/badge/Linux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+ <img alt="html5" src="https://img.shields.io/badge/Linux-6DB33F?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 ### Contact me

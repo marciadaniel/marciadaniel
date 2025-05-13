@@ -23,6 +23,8 @@
 ### I'm currently learning
 <div style="display: inline_block"><br/>
  <img alt="html5" src="https://img.shields.io/badge/Linux-F7DF1E?style=for-the-badge&logo=linux&logoColor=black" />
+    <img alt="html5" src="https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor=black" />
+    <img alt="html5" src="https://img.shields.io/badge/React-0077B5?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
 ### Contact me

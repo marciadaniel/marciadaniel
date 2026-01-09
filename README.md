@@ -18,7 +18,10 @@
  <img alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> 
     <img alt="html5" src="https://img.shields.io/badge/Laravel-D14836?style=for-the-badge&logo=laravel&logoColor=white" /> 
-    <img alt="html5" src="https://img.shields.io/badge/Node-0077B5?style=for-the-badge&logo=node&logoColor=black" />
+    <img
+  alt="html5"
+  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
+/>
     <img alt="html5" src="https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor=black" />
     
 </div>
